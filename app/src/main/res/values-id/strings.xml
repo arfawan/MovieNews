@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MovieNews</string>
+    <string name="navigation_drawer_close">Tutup Navigasi Drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="movie_name">Judul Film</string>
+    <string name="movie_description">Deskripsi Film</string>
+    <string name="detail_movies">Detail Film</string>
+    <string name="btn_select">Baca Lengkap</string>
+    <string name="release">Tanggal Rilis</string>
+    <string name="appbar_scrolling_view_behavior" />
+</resources>
